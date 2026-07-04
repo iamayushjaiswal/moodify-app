@@ -1,4 +1,14 @@
-node_modules
-Backend/.env
-songs.md
+
+node_modules/
+
+
 .env
+Backend/.env
+
+
+dist/
+Frontend/dist/
+
+
+.DS_Store
+.vscode/
